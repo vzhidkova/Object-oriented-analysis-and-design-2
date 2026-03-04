@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\obj\Debug\OOAP_1_without_pattern.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\obj\Debug\OOAP_1_without_pattern.Form1.resources
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\obj\Debug\OOAP_1_without_pattern.Properties.Resources.resources
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\obj\Debug\OOAP_1_without_pattern.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\obj\Debug\OOAP_1_without_pattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\bin\Debug\OOAP_1_without_pattern.exe.config
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\bin\Debug\OOAP_1_without_pattern.exe
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\bin\Debug\OOAP_1_without_pattern.pdb
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\obj\Debug\OOAP_1_without_pattern.exe
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_without_pattern\OOAP_1_without_pattern\obj\Debug\OOAP_1_without_pattern.pdb

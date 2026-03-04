@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\obj\Debug\OOAP_1_FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\obj\Debug\OOAP_1_FactoryMethod.Form1.resources
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\obj\Debug\OOAP_1_FactoryMethod.Properties.Resources.resources
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\obj\Debug\OOAP_1_FactoryMethod.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\obj\Debug\OOAP_1_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\bin\Debug\OOAP_1_FactoryMethod.exe.config
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\bin\Debug\OOAP_1_FactoryMethod.exe
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\bin\Debug\OOAP_1_FactoryMethod.pdb
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\obj\Debug\OOAP_1_FactoryMethod.exe
+C:\Users\user\Desktop\Универ\ООАП\2 сем\OOAP_1_FactoryMethod\OOAP_1_FactoryMethod\obj\Debug\OOAP_1_FactoryMethod.pdb

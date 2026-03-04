@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOAP_1_without_pattern", "OOAP_1_without_pattern\OOAP_1_without_pattern.csproj", "{FD380D46-CE82-4DA2-8B06-D82FDD28F4B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD380D46-CE82-4DA2-8B06-D82FDD28F4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD380D46-CE82-4DA2-8B06-D82FDD28F4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD380D46-CE82-4DA2-8B06-D82FDD28F4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD380D46-CE82-4DA2-8B06-D82FDD28F4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41482587-AFA7-4661-B257-96EF665FE5B4}
+	EndGlobalSection
+EndGlobal
